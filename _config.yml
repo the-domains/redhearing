@@ -1,0 +1,28 @@
+name: RedHearing
+favicon: null
+layout_spectrum: 0.9178005738649517
+typography_spectrum: 0.8914836207404733
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6277345528360456
+  lightness: 0.2410249919630587
+  saturation: 0.6293975994922221
+  rhythmicContrast: 0.04970089020207524
+purpose: []
